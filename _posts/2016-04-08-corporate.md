@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'A highly experienced and professional corporate presenter, Angela is at ease whether she is hosting an international conference on Nuclear Fusion or conducting a business television interview with your CEO.'
-datePublished: '2016-04-08T11:55:14.060Z'
-dateModified: '2016-04-08T11:54:58.389Z'
+datePublished: '2016-04-08T13:53:31.590Z'
+dateModified: '2016-04-08T13:49:25.195Z'
 title: CORPORATE //
 author: []
 sourcePath: _posts/2016-04-08-corporate.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: corporate/index.html
-_type: WebPage
+_type: Article
 
 ---
 A highly experienced and professional corporate presenter, Angela is at ease whether she is hosting an international conference on Nuclear Fusion or conducting a business television interview with your CEO.
