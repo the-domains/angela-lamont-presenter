@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'A highly experienced and professional corporate presenter, Angela is at ease whether she is hosting an international conference on Nuclear Fusion or conducting a business television interview with your CEO.'
-datePublished: '2016-04-08T10:54:32.401Z'
-dateModified: '2016-04-08T10:54:10.414Z'
+datePublished: '2016-04-08T11:55:14.060Z'
+dateModified: '2016-04-08T11:54:58.389Z'
 title: CORPORATE //
 author: []
 sourcePath: _posts/2016-04-08-corporate.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: corporate/index.html
-_type: Article
+_type: WebPage
 
 ---
 A highly experienced and professional corporate presenter, Angela is at ease whether she is hosting an international conference on Nuclear Fusion or conducting a business television interview with your CEO.
@@ -27,7 +27,7 @@ A highly experienced and professional corporate presenter, Angela is at ease whe
 As her testimonials show, her USP is that she easily blends into your world, but whilst providing a world-class presentation standard.  It's like having your own, dedicated BBC special correspondent on call for your conference, events, corporate communications and award ceremonies.
 
 Most notably, the majority of Angela's work is repeat business.  Which speaks for itself.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f05c80fa-6d68-49fa-b616-c545a22ab775.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11cb5926-4dbe-4468-830e-0ce14d0dab39.jpg)
 
 AWARDS //
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da1712bd-43cd-46ca-852b-328b724342a9.jpg)
