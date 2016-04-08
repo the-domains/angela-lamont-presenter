@@ -1,4 +1,4 @@
-name: Angela Lamont Presenter
+name: Angela Lamont
 favicon: null
 layout_spectrum: 0.18246055906638503
 typography_spectrum: 0.31628
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#230004'
+    - '#5f422f'
+    - '#86958d'
+    - '#ff2b1c'
+    - '#a01610'
   brandStrength: 0.3613540136720985
   lightness: 0.4375
   saturation: 0.08922762284055352
