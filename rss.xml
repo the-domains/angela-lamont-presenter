@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Angela Lamont Presenter]]></title>
+        <description><![CDATA[Angela Lamont Presenter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Apr 2016 09:28:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>With over 200 BBC programmes and literally hundreds of conferences, award ceremonies and live events under her belt, Angela specialises in presenting science, technology and engineering.</p></article>]]></description>
+            <link>undefinedhome/index.html</link>
+            <guid isPermaLink="false">d4b5fe48-5c24-41df-b60f-ae093fcdc804</guid>
+            <pubDate>Fri, 08 Apr 2016 09:28:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
