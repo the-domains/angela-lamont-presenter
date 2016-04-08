@@ -1,7 +1,7 @@
 name: Angela Lamont // Presenter
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.64533
+layout_spectrum: 0.37661
+typography_spectrum: 0.1389
 title: Angela Lamont // Presenter
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#ff2b1c'
     - '#a01610'
   brandStrength: 0
-  lightness: 0.5625
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.625
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
