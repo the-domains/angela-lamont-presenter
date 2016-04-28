@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: 'It is a delight to work with you...everyone found you very professional, knowledgeable, insightful, warm and fun and that you seemed to be part of the Unit4 team from the outset. Hilary Pike, Unit4 Software'
-datePublished: '2016-04-28T19:49:36.361Z'
-dateModified: '2016-04-28T19:49:35.365Z'
+description: ''
+datePublished: '2016-04-28T19:53:16.683Z'
+dateModified: '2016-04-28T19:53:08.111Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-28-what-they-say.md
@@ -24,4 +24,6 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4beeefa7-240b-45b4-8002-6bb0bf69cb40.jpg)
 
-It is a delight to work with you...everyone found you very professional, knowledgeable, insightful, warm and fun and that you seemed to be part of the Unit4 team from the outset. Hilary Pike, Unit4 Software
+> It is a delight to work with you...everyone found you very professional, knowledgeable, insightful, warm and fun and that you seemed to be part of the Unit4 team from the outset. 
+
+Hilary Pike, Unit4 Software
