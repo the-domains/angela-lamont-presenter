@@ -6,12 +6,11 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A highly experienced and professional corporate presenter, Angela is at ease whether she is hosting an international conference on Nuclear Fusion or conducting a business television interview with your CEO.'
-datePublished: '2016-04-11T14:15:32.262Z'
-dateModified: '2016-04-08T18:01:26.444Z'
+datePublished: '2016-05-06T22:21:58.725Z'
+dateModified: '2016-04-11T14:15:40.757Z'
 title: CORPORATE
 author: []
 sourcePath: _posts/2016-04-08-corporate.md
-published: true
 authors: []
 publisher:
   name: null
