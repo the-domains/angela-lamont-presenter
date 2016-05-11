@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=kl62RoykM8c'
 title: Angela Lamont // Conference Host
-datePublished: '2016-05-11T17:04:50.599Z'
-dateModified: '2016-05-11T17:00:43.697Z'
+datePublished: '2016-05-11T17:08:39.751Z'
+dateModified: '2016-05-11T17:07:42.515Z'
 starred: false
 sourcePath: _posts/2016-05-11-angela-lamont-conference-host.md
 inFeed: true
