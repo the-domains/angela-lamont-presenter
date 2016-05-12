@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'A highly experienced and professional corporate presenter, Angela is at ease whether she is hosting an international conference on Nuclear Fusion or conducting a business television interview with your CEO.'
-datePublished: '2016-05-12T10:26:45.477Z'
-dateModified: '2016-05-06T22:22:05.336Z'
+datePublished: '2016-05-12T10:53:58.881Z'
+dateModified: '2016-05-12T10:37:32.589Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-08-corporate.md
@@ -27,4 +27,4 @@ A highly experienced and professional corporate presenter, Angela is at ease whe
 
 As her testimonials show, her USP is that she easily blends into your world, but whilst providing a world-class presentation standard. It's like having your own, dedicated BBC special correspondent on call for your conference, events, corporate communications and award ceremonies.
 
-Most notably, the majority of Angela's work is repeat business. Which speaks for itself.
+Most notably, the majority of Angela's work is repeat business. Which speaks for itself...
